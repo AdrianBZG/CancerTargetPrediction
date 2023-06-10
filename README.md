@@ -12,7 +12,7 @@ In this study we investigate how computational intelligence methods can be appli
 
 # Summary of data reported in the paper
 
-- Training genes used for training: [link](https://github.com/AdrianBZG/CancerTargetPrediction/tree/master/analyses_data/training_sets_genes)
+- Training genes lists with labels: [link](https://github.com/AdrianBZG/CancerTargetPrediction/tree/master/analyses_data/training_sets_genes)
 - Model selection results: [link](https://github.com/AdrianBZG/CancerTargetPrediction/tree/master/analyses_data/models_performance)
 - Multivariate feature importance analyses: [link](https://github.com/AdrianBZG/CancerTargetPrediction/tree/master/analyses_data/feature_importance)
 - Univariate feature importance analyses: [link](https://github.com/AdrianBZG/CancerTargetPrediction/blob/master/analyses_data/univariate_analysis/cancer-wide_univariate_analysis_FDRadjusted.csv)
